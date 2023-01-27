@@ -15,7 +15,7 @@ public class GreaterOrLesser {
         }else if(a>b){
             return "Greater";
         }else{
-        return "Equal";
+            return "Equal";
         }
     }
 }
